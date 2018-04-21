@@ -1,0 +1,51 @@
+---
+layout: post
+title: 第一个Github幻灯片
+blog: true
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>第一个Github幻灯片</title>
+    <meta charset="utf-8">
+    <style>
+
+    </style>
+  </head>
+  <body>
+{{ site.excerpt_separator }}
+    <textarea id="source">
+
+class: center, middle
+
+# 特性1
+具有 Presenter 模式，可通过 p 键开启
+---
+
+# 特性2
+使用左右或上下方向键进行翻页
+---
+
+# 特性3
+支持语法加亮
+```shell
+#! /bin/bash
+echo 'now is: `date +"%F %T"`'
+grep "xxxx" /data/log/jetty/xxxx.log > /tmp/aaaa.bbb
+sudo /data/java/bin/jstack {pid} > /tmp/jstack.log
+```
+---
+
+# 特性4
+* 能够对幻灯进行缩放
+* 支持智能手机、平板等触屏设备
+* 因为直接在浏览器中播放，所以可以跨平台
+
+    </textarea>
+    <script src="/assets/javascript/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
