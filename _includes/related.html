@@ -8,12 +8,12 @@
             <h4>Related Posts: </h4>
             <ul>
             {% endif %}
-            <li class="relatedPost">
+            <li class="relatedPost">{{ post.date | date: "%Y-%m-%d" }}  
                 <a href="{{ site.url }}{{ post.url }}">{{ post.title }}
                 {% if post.series %}
                     (Series: {{ post.series }})
                 {% endif %}
-                </a>
+                </a> 
             </li>
             {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
             {% assign postHasSimilar = true %}

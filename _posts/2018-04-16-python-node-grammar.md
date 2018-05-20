@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python学习(1) 入门
+title: Python学习(1) - 基本语法
 
 category: 技术 
 tag: ["work", "note", "python"]
@@ -279,7 +279,9 @@ for是用在
 
 ### 注释 ###
 代码的最高境界就是不用注释, 自解释; 这是可以做到的, 也是我们写程序的追求
+
 首先程序的思路要清晰, 不要太奇葩
+
 再次变量,类和方法的命名要合适
 
 套用Python作者说的`Python之禅`
