@@ -116,7 +116,7 @@ echo "description  : "
 echo "date         : ${CURRENT_DATE} ${TIME}"
 
 echo "layout       : post"
-echo "tag          : []"
+echo "tag          : [\"work\", \"note\", \"name\"]"
 echo "blog         : true"
 echo "---"
 

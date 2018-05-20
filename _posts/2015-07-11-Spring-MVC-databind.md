@@ -2,7 +2,7 @@
 layout: post
 category : java
 title : Spring MVC参数绑定过程
-tag : [java, Spring, Data bind]
+tag : ["work", "original", "spring"]
 blog: true
 ---
 

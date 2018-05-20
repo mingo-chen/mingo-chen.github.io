@@ -4,7 +4,7 @@ author       : ahcming
 description  : 
 date         : 2018-04-28 17:28
 layout       : post
-tag          : ["travel"]
+tag          : ["life", "tourism"]
 blog         : true
 ---
 

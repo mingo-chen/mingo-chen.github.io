@@ -4,7 +4,7 @@ author       : ahcming
 description  :
 date         : 2018-05-20 15:15
 layout       : post
-tag          : ["Python", "Http", "work"]
+tag          : ["work", "note", "python"]
 blog         : true
 ---
 

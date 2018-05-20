@@ -3,7 +3,7 @@ layout: post
 title: Python学习(1) 入门
 
 category: 技术 
-tag: ["Python", "技术", "笔记"]
+tag: ["work", "note", "python"]
 blog: true
 ---
 ## 基本介绍 ##

@@ -2,7 +2,7 @@
 layout: post
 title: 性能测试工具－ab
 category : bottleneck
-tag : [apache benchmark, ab, qps, tps, tools]
+tag : ["work", "original", "ab"]
 blog: true
 ---
 ab的全称是ApacheBench,是Apache附带的一个小工具

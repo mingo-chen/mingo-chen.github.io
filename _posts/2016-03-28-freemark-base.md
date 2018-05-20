@@ -3,7 +3,7 @@ layout: post
 title: freemarker模板语言笔记
 
 category : java, freemarker,
-tag : [java, freemarker, el, 模板语言]
+tag : ["work", "note", "freemarker"]
 blog: true
 ---
 # freemarker模板语言
