@@ -5,7 +5,7 @@ header-img: assets/img/home-bg.jpg
 email: ahcming@163.com
 description: "欢迎一起交流技术, 让技术更好的传播, 让技术改变我们的生活"
 keyword: "后端, Java, Golang, 并发, 分布式, 高可用, 存储, Redis, MySQL, ClickHouse"
-url: "https://mingotech.github.io/" # your host, for absolute URL
+url: "https://ahcming.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "mingotech", href: "https://mingotech.github.io/" },
+    { title: "mingotech", href: "https://ahcming.github.io/" },
   ]

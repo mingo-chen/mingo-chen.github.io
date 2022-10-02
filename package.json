@@ -3,12 +3,12 @@
     "title": "Mingo Blog",
     "author": "mingochen <ahcming@163.com>",
     "version": "1.8.2",
-    "homepage": "https://mingotech.github.io/",
+    "homepage": "https://ahcming.github.io/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mingotech/mingotech.github.io"
+        "url": "https://github.com/mingotech/ahcming.github.io"
     },
-    "bugs": "https://github.com/mingotech/mingotech.github.io/issues",
+    "bugs": "https://github.com/mingotech/ahcming.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",

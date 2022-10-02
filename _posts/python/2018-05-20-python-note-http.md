@@ -105,7 +105,7 @@ url = 'http://www.iqianyue.com/mypost'
 # 此header设置对请求没有什么用, 只是为了展示而写
 head = {
     'User-Agent': 'AppleWebKit/537.36 (KHTML, like Gecko)',
-    'Referer': 'https://mingotech.github.io',
+    'Referer': 'https://ahcming.github.io',
     'Connection': 'keep-alive'
 }
 
