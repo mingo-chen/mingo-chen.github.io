@@ -1,14 +1,14 @@
 {
-    "name": "mingotech-blog",
+    "name": "mingo-blog",
     "title": "Mingo Blog",
     "author": "mingochen <ahcming@163.com>",
     "version": "1.8.2",
-    "homepage": "https://ahcming.github.io/",
+    "homepage": "https://mingo-chen.github.io/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ahcming/ahcming.github.io"
+        "url": "https://github.com/mingo-chen/mingo-chen.github.io"
     },
-    "bugs": "https://github.com/ahcming/ahcming.github.io/issues",
+    "bugs": "https://github.com/mingo-chen/mingo-chen.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",
