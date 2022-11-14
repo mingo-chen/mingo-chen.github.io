@@ -3,7 +3,7 @@ layout: post
 title: freemarker模板语言笔记
 
 category     : lib
-tag : ["note", "freemarker"]
+tag : ["笔记", "freemarker"]
 blog: true
 ---
 # freemarker模板语言

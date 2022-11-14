@@ -4,7 +4,7 @@ author       : mingo
 category     : design-patterns
 date         : 2019-04-12 09:55
 layout       : post
-tag          : ["design pattern","original"]
+tag          : ["设计模式","原创"]
 blog         : true
 ---
 

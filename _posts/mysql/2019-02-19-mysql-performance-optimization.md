@@ -4,7 +4,7 @@ author       : mingo
 category     : mysql
 date         : 2019-02-19 13:33
 layout       : post
-tag          : ["original", "mysql"]
+tag          : ["原创", "mysql"]
 blog         : true
 ---
 

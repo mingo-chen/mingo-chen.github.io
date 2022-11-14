@@ -4,7 +4,7 @@ author       : mingo
 category     : java
 date         : 2019-01-07 14:28
 layout       : post
-tag          : ["java","original"]
+tag          : ["java","原创"]
 blog         : true
 ---
 

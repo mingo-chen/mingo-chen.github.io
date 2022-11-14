@@ -4,7 +4,7 @@ author       : mingo
 category     : unix
 date         : 2019-05-03 16:11
 layout       : post
-tag          : ["original", "shell"]
+tag          : ["原创", "shell"]
 blog         : true
 star         : true
 ---

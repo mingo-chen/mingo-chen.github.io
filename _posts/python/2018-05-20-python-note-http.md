@@ -5,7 +5,7 @@ description  :
 date         : 2018-05-20 15:15
 category     : python
 layout       : post
-tag          : ["note", "python"]
+tag          : ["笔记", "python"]
 blog         : true
 ---
 

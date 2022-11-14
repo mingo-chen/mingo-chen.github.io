@@ -2,7 +2,7 @@
 layout: post
 category     : lib
 title : Spring MVC参数绑定过程
-tag : ["original", "spring"]
+tag : ["原创", "spring"]
 blog: true
 ---
 

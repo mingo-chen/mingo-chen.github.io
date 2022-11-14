@@ -5,7 +5,7 @@ date        : "2021-03-27 14:26:20"
 
 layout      : post
 category    : bigdata
-tag         : ["OLAP","click_hourse","survey","note"]
+tag         : ["OLAP","click_hourse","survey","笔记"]
 blog        : true
 star        : false
 ---

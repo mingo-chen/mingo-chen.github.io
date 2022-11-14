@@ -4,7 +4,7 @@ author       : mingo
 category     : python
 date         : 2018-05-20 16:59
 layout       : post
-tag          : ["note", "python"]
+tag          : ["笔记", "python"]
 blog         : true
 ---
 

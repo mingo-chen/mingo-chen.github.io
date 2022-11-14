@@ -5,7 +5,7 @@ date        : "2020-06-13 22:44:29"
 
 layout      : post
 category    : golang
-tag         : ["golang","original"]
+tag         : ["golang","原创"]
 blog        : true
 star        : true
 ---

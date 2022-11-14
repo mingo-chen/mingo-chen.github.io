@@ -2,7 +2,7 @@
 layout: post
 title: 性能测试工具－ab
 category     : test
-tag : ["original", "ab"]
+tag : ["原创", "ab"]
 blog: true
 ---
 ab的全称是ApacheBench,是Apache附带的一个小工具

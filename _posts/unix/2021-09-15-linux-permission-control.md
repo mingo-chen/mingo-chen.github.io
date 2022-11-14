@@ -5,7 +5,7 @@ date        : "2021-09-15 13:36:40"
 
 layout      : post
 category    : unix
-tag         : ["shell","original"]
+tag         : ["shell","原创"]
 blog        : true
 star        : false
 ---

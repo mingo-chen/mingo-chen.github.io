@@ -3,7 +3,7 @@ layout: post
 title: Python学习(1) - 基本语法
 
 category: python
-tag: ["note", "python"]
+tag: ["笔记", "python"]
 blog: true
 ---
 ## 基本介绍 ##
