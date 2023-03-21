@@ -375,6 +375,27 @@ echo "-> total size: $total"
 # 只能说, 各有千秋吧
 ```
 
+### 循环配合交互式输入
+
+```shell
+#! /bin/bash
+
+index=0
+gos=()  # 用于收集指定目录下所有可用go版本
+for _go in $(find /data/services -type d -name "go1.*")
+do
+    echo "${index}) ${_go}" # 用于给用户展示，输入想要的go版本对应的index
+    let index=$((index+1))
+    gos+=(${_go})
+done
+
+read choice  # 使用read函数获取用户输入
+choice_go=${gos[$choice]}  # 得到index对应的go版本
+echo "your choice go version: ${choice_go}"
+rm -rf /usr/lib/golang  # 删除旧的软链接
+ln -s ${choice_go} /usr/lib/golang  // 生成新版本的软链接
+```
+
 `break`, `continue` 简单说下, 支持, 跟你想的效果一样
 
 ## function
