@@ -13,7 +13,7 @@ CONFIG = {
   'theme_package_version' => "0.1.0"
 }
 
-bg_imgs = ["post-bg-2015.jpg","post-bg-alitrip.jpg","post-bg-halting.jpg","post-bg-infinity.jpg","post-bg-universe.jpg","post-bg-unix-linux.jpg","post-bg-web.jpg"]
+bg_imgs = ["post-bg-2015.jpg","post-bg-alitrip.jpg","post-bg-halting.jpg","post-bg-infinity.jpg","post-bg-universe.jpg","post-bg-unix-linux.jpg","post-bg-web.jpg","post-bg-excerpt.jpg","post-bg-415hBNYae5.jpg","post-bg-Q4geXkwLDD.jpg","post-bg-Esezv9JbQk.jpg","post-bg-ovrtkZoiQ3.jpg","post-bg-pxEeuOnTnM.jpg","post-bg-WiI52zvubn.jpg","post-bg-kzwrfvE3F3.jpg","post-bg-oBa2doT0kr.jpg","post-bg-BdBZzT7gaj.jpg"]
 bg_img = bg_imgs.sample(1)[0]
 
 # Usage: rake post title="A Title" subtitle="A sub title"
